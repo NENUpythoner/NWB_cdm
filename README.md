@@ -1,6 +1,6 @@
-# Non-asymptotic Wasserstein bounds for mean-centered conditional diffusion models
+# Non-asymptotic Wasserstein bounds for conditional diffusion models
 
-**Authors:** Mengze Li, Xingkai Wen, Minjiao Peng, and Shurong Zheng (corresponding author)
+**Authors:** Mengze Li (corresponding author), Xingkai Wen, and Minjiao Peng
 
 **Affiliation:** Key Laboratory of Applied Statistics of MOE, School of Mathematics and Statistics, Northeast Normal University, Changchun, 130024, Jilin, China.
 
